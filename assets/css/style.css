@@ -4521,6 +4521,11 @@ input[type="color"] {
 .service-item-three__img {
   margin-bottom: 40px;
 }
+.service-item-three__img img{
+  border-radius: 50%;
+  width:168px;
+}
+
 @media (max-width: 767px) {
   .service-item-three__img {
     margin-bottom: 15px;
