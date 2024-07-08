@@ -3682,6 +3682,7 @@ input[type="color"] {
 
 .ab-inner-img img {
   border-radius: 5px;
+  width:330px !important;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px),
@@ -5294,7 +5295,7 @@ input[type="color"] {
   margin-bottom: 0;
 }
 .tp-testimonial-three__user {
-  margin-top: -50px;
+  margin-top: -70px;
 }
 .tp-testimonial-three__user-img {
   margin-bottom: 25px;
