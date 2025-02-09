@@ -2925,6 +2925,7 @@ input[type="color"] {
   padding-top: 220px;
   padding-bottom: 90px;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 @media (max-width: 767px) {
   .hero-grideant-bg {
